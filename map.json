@@ -872,7 +872,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/..\/Downloads\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -885,7 +885,7 @@
         {
          "columns":16,
          "firstgid":1385,
-         "image":"..\/..\/Downloads\/Modern tiles_Free\/Interiors_free\/32x32\/Interiors_free_32x32.png",
+         "image":"Interiors_free_32x32.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -898,7 +898,7 @@
         {
          "columns":10,
          "firstgid":2281,
-         "image":"..\/..\/Downloads\/Modern tiles_Free\/Interiors_free\/32x32\/Tileset_32x32_9.png",
+         "image":"Tileset_32x32_9.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -911,7 +911,7 @@
         {
          "columns":12,
          "firstgid":2381,
-         "image":"..\/..\/Downloads\/Modern tiles_Free\/Interiors_free\/32x32\/Tileset_32x32_16.png",
+         "image":"Tileset_32x32_16.png",
          "imageheight":448,
          "imagewidth":384,
          "margin":0,
